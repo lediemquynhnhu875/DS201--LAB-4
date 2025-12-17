@@ -48,3 +48,10 @@ Kết quả được đánh giá bằng độ đo ROUGE-L trên tập Test của
 2. Huấn luyện mô hình: Chạy script tương ứng với mô hình muốn thử nghiệm. Ví dụ:
    ```bash
    python train_luong_lstm.py
+
+## DOWNLOAD PRE-TRAINED MODEL
+Bạn có thể tải các checkpoint đã huấn luyện tại đây:
+- [Basic LSTM Model](https://drive.google.com/drive/folders/14ePnCl5fdYxsiAD3kw9MM6H831C-1891?usp=drive_link)
+- [Bahdanau Attention Model](https://drive.google.com/drive/folders/1AlG5LpLMyAZD36VdwCn1diEnjAmR1czS?usp=drive_link)
+- [Luong Attention Model](https://drive.google.com/drive/folders/1B01Cy6fz8TQK33HSf2M8QKzitrE2d4jm?usp=drive_link)
+
