@@ -13,9 +13,6 @@ Dự án triển khai 3 biến thể của mô hình Sequence-to-Sequence (Seq2S
 
 | Tên File/Thư mục | Mô tả |
 | :--- | :--- |
-| MODEL-BAHDANAU/ | Lưu trữ checkpoint và log huấn luyện của mô hình Bahdanau Attention. |
-| MODEL-BAI1/ | Lưu trữ checkpoint và log của mô hình Seq2Seq cơ bản. |
-| MODEL-LUONG/ | Lưu trữ checkpoint và log của mô hình Luong Attention. |
 | phomt_dataset.py | Module xử lý Data Loader và tiền xử lý dữ liệu PhoMT. |
 | phomt_vocab.py | Module xây dựng và quản lý từ vựng (Vocabulary). |
 | seq2seq_basic_lstm.py | Định nghĩa kiến trúc mô hình Seq2Seq LSTM cơ bản. |
@@ -54,4 +51,5 @@ Bạn có thể tải các checkpoint đã huấn luyện tại đây:
 - [Basic LSTM Model](https://drive.google.com/drive/folders/14ePnCl5fdYxsiAD3kw9MM6H831C-1891?usp=drive_link)
 - [Bahdanau Attention Model](https://drive.google.com/drive/folders/1AlG5LpLMyAZD36VdwCn1diEnjAmR1czS?usp=drive_link)
 - [Luong Attention Model](https://drive.google.com/drive/folders/1B01Cy6fz8TQK33HSf2M8QKzitrE2d4jm?usp=drive_link)
+
 
